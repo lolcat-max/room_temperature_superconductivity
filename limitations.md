@@ -1,0 +1,1 @@
+The speed of the supercurrent is effectively the speed of light, meaning a signal can travel approximately 30 centimeters (c ≈ 3 x 10^8 m/s) in one nanosecond. So a 706 qubit quantum computer, for centimeter scale room temperature qubits.
