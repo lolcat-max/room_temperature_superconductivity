@@ -1,1 +1,0 @@
-Simply use draw board pins to secure the caulking gun made Y-shaped superconducting gates to a corkboard on a work bench and attach alligator clips to endpoints with a small voltage, carefully manipulating stress angles along the way, for meaningful computation.
